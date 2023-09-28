@@ -71,6 +71,8 @@ a{
     height: 300px;
     width: 700px;
     object-fit: cover;
+    object-position: 50% 15%;
+    border-radius: 20px;
 }
 
 .placeholder{
@@ -81,6 +83,7 @@ a{
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    border-radius: 20px;
 }
 
 .hero-button{
