@@ -75,7 +75,7 @@ a{
     align-items: center;
 }
 
-button{
+.hero-button{
     color:white;
     background-color: #3882F6;
     border: 0;
@@ -138,4 +138,40 @@ button{
     margin-left: 555px;
     font-size: 20px;
     font-weight: bold;
+}
+
+.call{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    width: 1200px;
+    height: 150px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.sign-button{
+    text-decoration: none;
+    color:white;
+    background-color: #3882F6;
+    border: solid white 2px;
+    border-radius: 10px;
+    padding:10px 30px;;
+    font-weight: 1000;
+}
+
+.footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color:whitesmoke;
 }
