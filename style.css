@@ -17,7 +17,7 @@ body{
 
 h1 {
     font-size: 48px;
-    font-weight: 850;
+    font-weight: 900;
     color: white;
     width:450px;
 }
@@ -120,3 +120,22 @@ button{
     color: rgb(129, 124, 124)
 }
 
+.quote {
+    height:400px;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-quote {
+    width: 770px;
+    color: #1F2937;
+}
+
+.author{
+    margin-left: 555px;
+    font-size: 20px;
+    font-weight: bold;
+}
